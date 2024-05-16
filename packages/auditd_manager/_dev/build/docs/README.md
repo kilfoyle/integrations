@@ -5,6 +5,8 @@ is a part of the Linux kernel.
 
 This integration is available only for Linux.
 
+This integration requires Elastic Agents to have `root` privileges.
+
 ## How it works
 
 This integration establishes a subscription to the kernel to receive the events
